@@ -1,0 +1,1 @@
+docker exec -it react-docker-react-1 npm run build
